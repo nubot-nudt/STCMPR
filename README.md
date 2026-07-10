@@ -1,1 +1,1 @@
-# STCMPR
+This repository provides the official implementation of our paper, “STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency.” The code will be released upon acceptance of the paper.
