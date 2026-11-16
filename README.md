@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="./framework.png" alt="Alt text" width="600" height="350">
+  <img src="./framework.png" alt="Alt text" width="600" height="400">
 </p>
 
 ## Environment
