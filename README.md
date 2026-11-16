@@ -8,7 +8,7 @@
    Chenghao Shi,
    Ziyue Wang,
  <a href="https://ieeexplore.ieee.org/author/37085664722">Zhiwen Zeng</a>,
-  <a href="https://scholar.google.com.hk/citations?hl=en&user=cp-6u7wAAAAJ">Huimin Lu</a>
+  <a href="https://scholar.google.com.hk/citations?hl=en&user=cp-6u7wAAAAJ">Huimin Lu</a>,
    Zongtan Zhou
 </p>
 
