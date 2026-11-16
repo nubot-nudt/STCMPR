@@ -1,5 +1,46 @@
-# STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency
-This repository contains the implementation of our T-ASE paper: STCMPR
+<div align="center">
+
+# LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar
+
+</div>
+<p align="center">
+  <a href="https://github.com/Shuaifeng-Jiao">Shuaifeng Jiao</a>,
+  <a href="https://ieeexplore.ieee.org/author/37085664722">Zhiwen Zeng</a>,
+  <a href="https://github.com/WangYushan9264">Zhuoqun Su</a>,
+  <a href="https://github.com/Chen-Xieyuanli">Xieyuanli Chen</a>
+   Zongtan Zhou<sup>*</sup>,
+  <a href="https://scholar.google.com.hk/citations?hl=en&user=cp-6u7wAAAAJ">Huimin Lu</a>
+ 
+  
+</p>
+
+<p align="center">
+  <span style="display: inline-block;">
+    <a href="https://arxiv.org/pdf/2503.11409" target='_blank'>
+      <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-slategray">
+    </a>
+  </span>
+  
+  <span style="display: inline-block;">
+    <a href="https://drive.google.com/drive/folders/17qlztnZj_POkljKoBVu3Qccu09rBvYwT?usp=sharing" target='_blank'>
+      <img src="https://img.shields.io/badge/LESS-%F0%9F%9B%B0%EF%B8%8F-lightyellow">
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://drive.google.com/drive/folders/1u5eHiEPSuPZm1nmjdD4iixaATTorBbI8?usp=sharing" target='_blank'>
+      <img src="https://img.shields.io/badge/Dataset-%F0%9F%93%82-lightblue">
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://1drv.ms/v/c/9fa243fc9d6318bd/ERalIxw2JaRPgX6dHvGNDggB-5JHOughIMZkYQ6CgkrQpQ?e=y4zu7J" target='_blank'>
+      <img src="https://img.shields.io/badge/Video-%F0%9F%8E%AC-pink">
+    </a>
+  </span>
+</p>
+
+
 
 ![framework](./framework.png)
 
