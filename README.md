@@ -47,7 +47,7 @@ python -m pip install --no-build-isolation -r requirements-cuda.txt
 python tools/check_environment.py
 ```
 
-## Train HCMC
+## Train
 
 All commands below run from this directory. Replace the placeholder dataset and
 checkpoint paths with your own. `--init-checkpoint` starts a new fine-tuning run;
