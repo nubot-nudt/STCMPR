@@ -31,7 +31,7 @@
 </p>
 
 
-Please cite the paper:
+Please cite the paper [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11806771)]:
 ```bib
 @ARTICLE{jiao2026tase,
   author={Jiao, Shuaifeng and Chen, Xieyuanli and Shi, Chenghao and Wang, Ziyue and Zeng, Zhiwen and Lu, Huimin and Zhou, Zongtan},
