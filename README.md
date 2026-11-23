@@ -30,6 +30,21 @@
   <img src="./framework.png" alt="Alt text" width="600" height="400">
 </p>
 
+
+Please cite the paper:
+```bib
+@ARTICLE{jiao2026tase,
+  author={Jiao, Shuaifeng and Chen, Xieyuanli and Shi, Chenghao and Wang, Ziyue and Zeng, Zhiwen and Lu, Huimin and Zhou, Zongtan},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency}, 
+  year={2026},
+  volume={1},
+  number={1},
+  pages={1-1},
+  doi={10.1109/TASE.2026.3755718}
+}
+```
+
 ## Environment
 
 The inspected research environment used PyTorch 2.0.1 + CUDA 11.8,
